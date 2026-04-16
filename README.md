@@ -13,7 +13,9 @@ The primary utility for tracking real-time price drops across major filament bra
 ### 🎨 [Fab Meld](https://fabmeld.com)
 A visual discovery hub for 3D printing projects, technical guides, and "maker-tech" integration.
 - High-quality visual galleries.
-- Technical "How-to" guides for advanced builds.
+- Technical "How-to" guides for 3D printing.
+- 3D Printers
+- Calibration for 3D Printing.
 
 ---
 
